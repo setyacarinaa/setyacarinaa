@@ -1,4 +1,4 @@
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W.gif" width="2000" height="350"/>
+<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W.gif" width="2000" height="300"/>
 
 
 \- 👋 Hi, I’m @setyacarinaa
