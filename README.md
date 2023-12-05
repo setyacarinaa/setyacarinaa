@@ -1,4 +1,4 @@
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W.gif" width="2000" height="300"/>
+<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W(1).gif" width="800" height="350"/>
 
 ## Get To Know Me**˚ʚ♡ɞ˚**  :
 ✧   A beginner at programming<br>
@@ -14,8 +14,8 @@
 ## 📊 GitHub Stats:
 <table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/setyacarinaa?cardType=github&theme=jolly&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setyacarinaa&theme=jolly&hide_border=false"></td>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setyacarinaa&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
+    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/setyacarinaa?cardType=github&theme=omni&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setyacarinaa&theme=omni&hide_border=false"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setyacarinaa&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
   </tr>
 </table>
 
