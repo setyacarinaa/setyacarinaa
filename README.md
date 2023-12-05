@@ -7,9 +7,14 @@
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning C<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/ppg-flying.gif" align="right" width="220">
+<a href="https://instagram.com/setyacarinaa" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/spinel(1).gif" align="right" width="300">
+
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
 
 ## 📊 GitHub Stats:
 <table align="center">
