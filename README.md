@@ -12,7 +12,7 @@
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/spinel(1).gif" align="right" width="300">
+<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/spinel(1).gif" align="right" width="290">
 
 <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
 
