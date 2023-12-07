@@ -1,4 +1,4 @@
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W(1).gif" width="800" height="350"/>
+<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W(1).gif" width="1090" height="350"/>
 
 ## Get To Know Me**˚ʚ♡ɞ˚**  :
 ✧   A beginner at programming<br>
