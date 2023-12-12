@@ -1,4 +1,4 @@
-<img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W(1).gif" width="1090" height="350"/>
+<img align="center" src="https://github.com/setyacarinaa/setyacarinaa/blob/main/W.gif" width="900" height="290"/>
 
 ## Get To Know Me**˚ʚ♡ɞ˚**  :
 ✧   A beginner at programming<br>
@@ -26,7 +26,7 @@
 </a> 
 </div>
 
-## 📊 GitHub Stats:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats:
 <table align="center">
   <tr>
     <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/setyacarinaa?cardType=github&theme=omni&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setyacarinaa&theme=omni&hide_border=false"></td>
