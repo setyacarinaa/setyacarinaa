@@ -5,7 +5,7 @@
 ✧   Cartoon Network Biggest Fan**♡**<br>
 ✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
-✧   Currently learning <img src="https://img.shields.io/badge/C-magenta?style=for-the-badge&logo=c&logoColor=pink" /> and <img src="https://img.shields.io/badge/C++-magenta?style=for-the-badge&logo=c++&logoColor=pink" /><br>
+✧   Currently learning <img src="https://img.shields.io/badge/C-magenta?style=plastic&logo=c&logoColor=pink" /> and <img src="https://img.shields.io/badge/C++-magenta?style=plastic&logo=c++&logoColor=pink" /><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/spinel(1).gif" align="right" width="290">
@@ -13,13 +13,13 @@
 ### Find Me On: <br>
 <div id="badges">
 <a href="https://instagram.com/setyacarinaa" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> 
 <a href="mailto:carinasetya@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"  height="35" width="150" />
+  <img src="https://img.shields.io/badge/gmail-deeppink?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"  height="35" width="150" />
 </a> <br>
 <a href="https://www.tiktok.com/@setyacarinaaa?_t=8hxSErcZwSw&_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/tiktok-magenta?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok Badge" height="35" width="150" />
+  <img src="https://img.shields.io/badge/tiktok-magenta?style=plastic&logo=Tiktok&logoColor=white" alt="Tiktok Badge" height="35" width="150" />
 </a> <br> <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
