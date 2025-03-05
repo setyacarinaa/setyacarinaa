@@ -3,9 +3,9 @@
 ## Get To Know Me**˚ʚ♡ɞ˚**  :
 ✧   A beginner at programming<br>
 ✧   Cartoon Network Biggest Fan**♡**<br>
-✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
+✧   A student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
-✧   Currently learning <img src="https://img.shields.io/badge/C-magenta?style=plastic&logo=c&logoColor=pink" /> and <img src="https://img.shields.io/badge/C++-magenta?style=plastic&logo=c++&logoColor=pink" /><br>
+✧   Currently learning <img src="https://img.shields.io/badge/C-magenta?style=plastic&logo=c&logoColor=pink" />, <img src="https://img.shields.io/badge/C++-magenta?style=plastic&logo=c++&logoColor=pink" />, and <img src="https://img.shields.io/badge/Python-magenta?style=plastic&logo=c++&logoColor=pink" /><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/setyacarinaa/setyacarinaa/blob/main/spinel(1).gif" align="right" width="290">
