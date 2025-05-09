@@ -2,7 +2,6 @@
 
 ## Get To Know Me**˚ʚ♡ɞ˚**  :
 ✧   A beginner at programming<br>
-✧   Cartoon Network Biggest Fan**♡**<br>
 ✧   A student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning <img src="https://img.shields.io/badge/C-magenta?style=plastic&logo=c&logoColor=pink" />, <img src="https://img.shields.io/badge/C++-magenta?style=plastic&logo=c++&logoColor=pink" />, and <img src="https://img.shields.io/badge/Python-magenta?style=plastic&logo=c++&logoColor=pink" /><br>
