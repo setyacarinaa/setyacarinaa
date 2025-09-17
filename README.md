@@ -36,13 +36,6 @@
    </tr>
 </table>
 
-<br>
-<div align="center">
- <b style = {font-weight: 3000}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{setyacarinaa}/count.svg" /></p> 
-<br>
-</div>
-
 <!---
 setyacarinaa/setyacarinaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
