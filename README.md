@@ -28,10 +28,11 @@
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats:
 <table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/setyacarinaa?cardType=github&theme=omni&hide_border=false&include_all_commits=false&count_private=true"><br><br> 
+    <td><img width="480p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/setyacarinaa?cardType=github&theme=omni&hide_border=false&include_all_commits=false&count_private=true">
+        <img width="400p" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=setyacarinaa&layout=compact&langs_count=8&theme=omni">
 <!---    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setyacarinaa&theme=omni&hide_border=false"> --->
     </td>
-     </tr>
+  </tr>
 </table>
 
 <!---
